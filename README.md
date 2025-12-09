@@ -1,18 +1,33 @@
 <!-- ========================================================= -->
-<!-- 🚀 Lakshman Madamanchi | Junior Data Analyst | BI & ML -->
+<!-- 🚀 Lakshman Madamanchi | Junior Data Analyst -->
 <!-- ========================================================= -->
 
-<h1 align="center">👋 Hey, I'm <span style="color:#00C9A7; font-weight:700;">Lakshman Madamanchi</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#00C9A7; font-weight:700;">Lakshman Madamanchi</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=640&lines=Junior+Data+Analyst;Business+Intelligence+Developer;ML+Enthusiast;Turning+Data+Into+Decisions;Data+Storytelling+%7C+Insight+Driven" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=640&lines=Junior+Data+Analyst;BI+Developer;ML+Enthusiast;Transforming+Data+Into+Actionable+Insights"/>
 </p>
 
 <p align="center">
-  <a href="mailto:lakshmanmadamanchi45@gmail.com"><img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/lakshman-madamanchi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://lakshmans-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a><img src="https://img.shields.io/badge/Hyderabad%2C%20India-0080FF?style=for-the-badge&logo=google-maps&logoColor=white" /></a>
+  <!-- Email -->
+  <a href="mailto:lakshmanmadamanchi45@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/lakshman-madamanchi">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://lakshmans-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+
+  <!-- Location -->
+  <a href="https://www.google.com/maps/place/Hyderabad,+India" target="_blank">
+    <img src="https://img.shields.io/badge/Hyderabad%2C%20India-0080FF?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
+  </a>
 </p>
 
 <p align="center">
@@ -22,144 +37,140 @@
 ---
 
 # 💡 About Me
-I’m **Lakshman Madamanchi**, a focused **Junior Data Analyst** who turns complex datasets into meaningful insights.  
-I love creating **dashboards, automation pipelines,** and **ML-powered tools** that simplify decision-making.
-
-> **“Data speaks — I translate it into clarity.”**
+I am a **dedicated Junior Data Analyst** passionate about transforming complex datasets into **actionable business insights**.  
+I specialize in **dashboard development, BI automation, and ML-driven analysis**, enabling organizations to make **data-informed strategic decisions**.
 
 ---
 
-# ⚙️ Tech Stack
+# ⚙️ Technical Expertise
 
-## 💻 Languages & Querying
+## 💻 Programming & Querying
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-00C9A7?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-3949AB?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-E65100?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-1565C0?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-01579B?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-00C9A7?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-3949AB?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-E65100?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-1565C0?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-01579B?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
-## 📊 BI & Visualization
+## 📊 Business Intelligence & Visualization
 <p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-2962FF?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-00ACC1?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-2962FF?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-00ACC1?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-## 🧩 Tools & Platforms
+## 🧰 Tools & Platforms
 <p align="center">
-  <img src="https://img.shields.io/badge/Jupyter-F57C00?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-424242?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-0F9D58?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F57C00?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-424242?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-0F9D58?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
 </p>
 
 ---
 
 # 🎓 Education  
 🎓 **B.Tech — Computer Science & Engineering**  
-📍 *Vignan Institute of Technology and Science* (2021 – 2025)
+📍 *Vignan Institute of Technology and Science* (2021–2025)
 
 ---
 
-# 💼 Internship Experience
+# 💼 Internship Experience  
 
-### 🔹 Data Analytics Intern — *AICTE | Microsoft | SAP*  
+### Data Analytics Intern — *Vangrove Tech Pvt. Ltd.*  
+📅 [Add Dates]  
+- Developed **interactive dashboards and visual components** to support internal reporting.  
+- Integrated **REST APIs and tabular UI workflows** for seamless data-to-frontend transitions.
+
+### Data Analytics Intern — *AICTE x Microsoft x SAP*  
 📅 Feb 2025 – Apr 2025  
-- Developed **interactive BI dashboards** using Microsoft Cloud & SAP tools  
-- Automated pipelines → **25% faster data refresh**  
-- Turned business challenges into actionable analytics
+- Designed **dynamic BI dashboards** for critical business metrics.  
+- Automated pipelines to improve data refresh efficiency by **25%**.
 
 ---
 
 # 🧠 Projects
 
 ### 📈 Employee Performance Analytics  
-- Analyzed **5,000+ employee records**  
-- Automated HR reporting → **40% manual time saved**  
-- Delivered insights for leadership decisions
+- Analyzed **5,000+ employee records** for performance evaluation.  
+- Automated HR reporting, saving **40% of manual effort**.
 
 ### 🛒 E-commerce Sales Dashboard  
-- Power BI + SQL real-time dashboard  
-- Customer segmentation & revenue KPIs
+- Built real-time **Power BI + SQL dashboards**.  
+- Conducted **customer segmentation, KPI monitoring, and revenue analysis**.
 
 ### 🔐 Phishing Website Detection (ML)  
-- XGBoost model → **96% accuracy**  
-- Flask web deployment with feature-importance explainability  
+- Developed **XGBoost model** achieving **96% accuracy**.  
+- Deployed using **Flask**, with **explainable feature importance** insights.
 
 ---
 
 # 🏅 Certifications
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Deloitte-Data_Analytics-004225?style=for-the-badge&logo=deloitte&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IBM-Data_Science_101-1F70C1?style=for-the-badge&logo=ibm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HackerRank-Python_Advanced-2ECC71?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HackerRank-SQL_Advanced-27AE60?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <!-- Corporate Certifications -->
+  <img src="https://img.shields.io/badge/Deloitte-Data_Analytics-004225?style=for-the-badge&logo=deloitte&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM-Data_Science_101-1F70C1?style=for-the-badge&logo=ibm&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Skill-based Certifications -->
+  <img src="https://img.shields.io/badge/HackerRank-Python_Advanced-2ECC71?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank-SQL_Advanced-27AE60?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </p>
 
 ---
 
 # 🏆 Achievements  
 🥉 **3rd Place** — Digital India Innovative Project Expo 2024  
-Recognized for innovative, data-driven business impact.
+Recognized for delivering **innovative, data-driven solutions** with measurable business impact.
 
 ---
 
-# 🔥 GitHub Stats (Enhanced & Clean)
+# 📊 GitHub Skills & Contributions
 
-## 📊 Core Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lakshmancode-9&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Lakshmancode-9&theme=tokyonight&hide_border=true"/>
+  <img src="https://img.shields.io/badge/Python-80%25-00C9A7?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-70%25-3949AB?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-60%25-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" />
+  <img src="https://img.shields.io/badge/Tableau-50%25-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-70%25-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## 🧭 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshmancode-9&theme=react-dark&hide_border=true"/>
-</p>
+---
 
-## 🏆 Trophy Case
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lakshmancode-9&theme=tokyonight&margin-w=10&no-frame=true"/>
-</p>
+# 🧰 Soft Skills  
+| Skill | Proficiency |
+|-------|-------------|
+| **Data Storytelling** | Crafting clear, actionable insights |
+| **Analytical Thinking** | Logical, structured problem solving |
+| **Collaboration** | Seamless teamwork and Agile adaptability |
+| **Adaptability** | Rapid learning across BI/ML tools |
 
-## 🛰️ 3D GitHub Skyline
+---
+
+# 📫 Connect with Me
+
 <p align="center">
-  <a href="https://skyline.github.com/Lakshmancode-9/2025">
-    <img src="https://img.shields.io/badge/3D%20Skyline-Explore%20My%20Contributions-00C9A7?style=for-the-badge"/>
+  <a href="mailto:lakshmanmadamanchi45@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/lakshman-madamanchi">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://lakshmans-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/Lakshmancode-9">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-## 📦 Summary Cards
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lakshmancode-9&theme=tokyonight"/>
+  <img src="https://komarev.com/ghpvc/?username=Lakshmancode-9&color=00C9A7&style=for-the-badge" alt="Profile Views"/>
 </p>
 
----
-
-# 🧰 Soft Skills
-
-| Skill | Description |
-|-------|-------------|
-| **Data Storytelling** | Clear communication of insights |
-| **Problem Solving** | Logical & structured thinking |
-| **Team Collaboration** | Works smoothly in Agile teams |
-| **Adaptability** | Fast learner across BI/ML tools |
-
----
-
-# 📫 Connect With Me
-<p align="center">
-  <a href="mailto:lakshmanmadamanchi45@gmail.com"><img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/lakshman-madamanchi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://lakshmans-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lakshmancode-9&color=00C9A7&style=for-the-badge" />
-</p>
-
-<h3 align="center">⭐ “Data doesn’t lie — it just needs someone who can translate it.” ⭐</h3>
+<h3 align="center">⭐ “Data doesn’t lie — it just needs someone who can interpret it strategically.” ⭐</h3>
