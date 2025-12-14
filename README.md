@@ -94,20 +94,35 @@ I specialize in **dashboard development, BI automation, and ML-driven analysis**
 
 # 🧠 Projects
 
-### 🛒 Retail Customer Insights & Purchase Behavior Analysis
-- Analyzed retail transaction data to identify customer purchasing patterns and product preferences.
-- Performed customer segmentation based on buying frequency and spending behavior, improving targeting insights by **20%**.
-- Built interactive dashboards to track sales trends, repeat purchases, and customer retention, reducing analysis time by **30%**.
+<details>
+<summary>🛒 Retail Customer Insights & Purchase Behavior Analysis</summary>
 
-### 🤖 AI-Driven Tech Market Analysis
-- Analyzed technology market datasets to identify emerging trends and competitive positioning.
-- Applied AI-assisted analysis techniques to evaluate product performance and market demand, improving trend detection speed by **28%**.
-- Translated complex market data into clear, business-ready insights, supporting faster decision-making by **18%**.
+**Project Overview:**  
+Analyzed retail transaction data to identify customer purchasing patterns and product preferences. Conducted customer segmentation based on buying frequency and spending behavior, improving targeting insights by **20%**. Built interactive dashboards to track sales trends, repeat purchases, and customer retention, reducing analysis time by **30%**.  
 
-### 🎓 Student Attendance Analysis
-- Analyzed student attendance records across courses and semesters to identify participation patterns.
-- Identified low-attendance risk groups, supporting a **15% improvement** in early intervention tracking.
-- Created visual reports that reduced manual attendance monitoring effort by **40%**.
+**Tech Stack:** Python, SQL, Power BI, Excel
+
+</details>
+
+<details>
+<summary>🤖 AI-Driven Tech Market Analysis</summary>
+
+**Project Overview:**  
+Analyzed technology market datasets to identify emerging trends and competitive positioning. Applied AI-assisted analysis techniques to evaluate product performance and market demand, improving trend detection speed by **28%**. Translated complex market data into clear, business-ready insights, supporting faster decision-making by **18%**.  
+
+**Tech Stack:** Python, Data Analysis Libraries, Visualization Tools
+
+</details>
+
+<details>
+<summary>🎓 Student Attendance Analysis</summary>
+
+**Project Overview:**  
+Analyzed student attendance records across courses and semesters to identify participation patterns. Identified low-attendance risk groups, supporting a **15% improvement** in early intervention tracking. Created visual reports that reduced manual attendance monitoring effort by **40%**.  
+
+**Tech Stack:** Python, Excel, Data Visualization Tools
+
+</details>
 
 ---
 
