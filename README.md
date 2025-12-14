@@ -19,11 +19,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <!-- Portfolio -->
-  <a href="https://lakshmans-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-
   <!-- Location -->
   <a href="https://www.google.com/maps/place/Hyderabad,+India" target="_blank">
     <img src="https://img.shields.io/badge/Hyderabad%2C%20India-0080FF?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
@@ -171,17 +166,8 @@ Recognized for delivering **innovative, data-driven solutions** with measurable 
 # 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:lakshmanmadamanchi@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
-  </a>
   <a href="https://linkedin.com/in/lakshman-madamanchi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://lakshmans-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/Lakshmancode-9">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
