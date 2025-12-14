@@ -89,22 +89,24 @@ I specialize in **dashboard development, BI automation, and ML-driven analysis**
 📅 Feb 2025 – Apr 2025  
 - Designed **dynamic BI dashboards** for critical business metrics.  
 - Automated pipelines to improve data refresh efficiency by **25%**.
-
 ---
 
 # 🧠 Projects
 
-### 📈 Employee Performance Analytics  
-- Analyzed **5,000+ employee records** for performance evaluation.  
-- Automated HR reporting, saving **40% of manual effort**.
+### 🛒 Retail Customer Insights & Purchase Behavior Analysis
+- Analyzed retail transaction data to identify customer purchasing patterns and product preferences.
+- Performed customer segmentation based on buying frequency and spending behavior, improving targeting insights by **20%**.
+- Built interactive dashboards to track sales trends, repeat purchases, and customer retention, reducing analysis time by **30%**.
 
-### 🛒 E-commerce Sales Dashboard  
-- Built real-time **Power BI + SQL dashboards**.  
-- Conducted **customer segmentation, KPI monitoring, and revenue analysis**.
+### 🤖 AI-Driven Tech Market Analysis
+- Analyzed technology market datasets to identify emerging trends and competitive positioning.
+- Applied AI-assisted analysis techniques to evaluate product performance and market demand, improving trend detection speed by **28%**.
+- Translated complex market data into clear, business-ready insights, supporting faster decision-making by **18%**.
 
-### 🔐 Phishing Website Detection (ML)  
-- Developed **XGBoost model** achieving **96% accuracy**.  
-- Deployed using **Flask**, with **explainable feature importance** insights.
+### 🎓 Student Attendance Analysis
+- Analyzed student attendance records across courses and semesters to identify participation patterns.
+- Identified low-attendance risk groups, supporting a **15% improvement** in early intervention tracking.
+- Created visual reports that reduced manual attendance monitoring effort by **40%**.
 
 ---
 
