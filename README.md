@@ -10,8 +10,8 @@
 
 <p align="center">
   <!-- Email -->
-  <a href="mailto:lakshmanmadamanchi45@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:lakshmanmadamanchi@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
 
   <!-- LinkedIn -->
@@ -81,7 +81,7 @@ I specialize in **dashboard development, BI automation, and ML-driven analysis**
 # 💼 Internship Experience  
 
 ### Data Analytics Intern — *Vangrove Tech Pvt. Ltd.*  
-📅 [Add Dates]  
+📅 Sep 2025  
 - Developed **interactive dashboards and visual components** to support internal reporting.  
 - Integrated **REST APIs and tabular UI workflows** for seamless data-to-frontend transitions.
 
@@ -89,6 +89,7 @@ I specialize in **dashboard development, BI automation, and ML-driven analysis**
 📅 Feb 2025 – Apr 2025  
 - Designed **dynamic BI dashboards** for critical business metrics.  
 - Automated pipelines to improve data refresh efficiency by **25%**.
+
 ---
 
 # 🧠 Projects
@@ -113,13 +114,11 @@ I specialize in **dashboard development, BI automation, and ML-driven analysis**
 # 🏅 Certifications
 
 <p align="center">
-  <!-- Corporate Certifications -->
   <img src="https://img.shields.io/badge/Deloitte-Data_Analytics-004225?style=for-the-badge&logo=deloitte&logoColor=white" />
   <img src="https://img.shields.io/badge/IBM-Data_Science_101-1F70C1?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
 
 <p align="center">
-  <!-- Skill-based Certifications -->
   <img src="https://img.shields.io/badge/HackerRank-Python_Advanced-2ECC71?style=for-the-badge&logo=hackerrank&logoColor=white" />
   <img src="https://img.shields.io/badge/HackerRank-SQL_Advanced-27AE60?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </p>
@@ -157,8 +156,8 @@ Recognized for delivering **innovative, data-driven solutions** with measurable 
 # 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:lakshmanmadamanchi45@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:lakshmanmadamanchi@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/lakshman-madamanchi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
