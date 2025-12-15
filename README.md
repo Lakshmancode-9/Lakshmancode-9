@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <!-- Email -->
-  <a href="mailto:lakshmanmadamanchi@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+  <!-- Email (Gmail FIXED) -->
+  <a href="mailto:lakshmanmadamanchi45@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
   <!-- LinkedIn -->
@@ -90,13 +90,10 @@ I specialize in **dashboard development, BI automation, and ML-driven analysis**
 # 🧠 Projects
 
 <details>
-<summary>🛒 Retail Customer Insights & Purchase Behavior Analysis</summary>
+<summary>Developer Productivity & Burnout Risk Analysis</summary>
 
 **Project Overview:**  
-Analyzed retail transaction data to identify customer purchasing patterns and product preferences. Conducted customer segmentation based on buying frequency and spending behavior, improving targeting insights by **20%**. Built interactive dashboards to track sales trends, repeat purchases, and customer retention, reducing analysis time by **30%**.  
-
-**Tech Stack:** Python, SQL, Power BI, Excel
-
+The analysis compares Junior, Mid, and Senior developers, evaluates remote vs on-site work models, and examines how AI usage, sleep patterns, and workload intensity influence efficiency and performance. Burnout risk indicators are identified using stress and workload trends.
 </details>
 
 <details>
@@ -106,7 +103,6 @@ Analyzed retail transaction data to identify customer purchasing patterns and pr
 Analyzed technology market datasets to identify emerging trends and competitive positioning. Applied AI-assisted analysis techniques to evaluate product performance and market demand, improving trend detection speed by **28%**. Translated complex market data into clear, business-ready insights, supporting faster decision-making by **18%**.  
 
 **Tech Stack:** Python, Data Analysis Libraries, Visualization Tools
-
 </details>
 
 <details>
@@ -116,7 +112,6 @@ Analyzed technology market datasets to identify emerging trends and competitive 
 Analyzed student attendance records across courses and semesters to identify participation patterns. Identified low-attendance risk groups, supporting a **15% improvement** in early intervention tracking. Created visual reports that reduced manual attendance monitoring effort by **40%**.  
 
 **Tech Stack:** Python, Excel, Data Visualization Tools
-
 </details>
 
 ---
