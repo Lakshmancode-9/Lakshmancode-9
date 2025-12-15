@@ -88,13 +88,13 @@ I specialize in **dashboard development, BI automation, and ML-driven analysis**
 ---
 
 # 🧠 Projects
+
 ## 🧠 Projects
 
 ### Developer Productivity & Burnout Risk Analysis  
 **Project Overview:**  
 This project analyzes developer-level and team-level data to assess how **experience level, work model (remote vs on-site), AI usage, sleep patterns, and workload intensity** impact productivity and burnout risk. Productivity trends across **Junior, Mid, and Senior developers** were evaluated, with burnout indicators identified using stress and workload metrics to support proactive workforce planning and performance optimization.
 
-**Tech Stack:** Python, Data Analysis Libraries, Data Visualization Tools
 ---
 
 ### 🤖 AI-Driven Tech Market Analysis  
