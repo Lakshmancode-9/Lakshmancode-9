@@ -88,31 +88,28 @@ I specialize in **dashboard development, BI automation, and ML-driven analysis**
 ---
 
 # 🧠 Projects
+## 🧠 Projects
 
-<details>
-<summary>Developer Productivity & Burnout Risk Analysis</summary>
-
+### Developer Productivity & Burnout Risk Analysis  
 **Project Overview:**  
-The analysis compares Junior, Mid, and Senior developers, evaluates remote vs on-site work models, and examines how AI usage, sleep patterns, and workload intensity influence efficiency and performance. Burnout risk indicators are identified using stress and workload trends.
-</details>
+This project analyzes developer-level and team-level data to assess how **experience level, work model (remote vs on-site), AI usage, sleep patterns, and workload intensity** impact productivity and burnout risk. Productivity trends across **Junior, Mid, and Senior developers** were evaluated, with burnout indicators identified using stress and workload metrics to support proactive workforce planning and performance optimization.
 
-<details>
-<summary>🤖 AI-Driven Tech Market Analysis</summary>
+**Tech Stack:** Python, Data Analysis Libraries, Data Visualization Tools
+---
 
+### 🤖 AI-Driven Tech Market Analysis  
 **Project Overview:**  
-Analyzed technology market datasets to identify emerging trends and competitive positioning. Applied AI-assisted analysis techniques to evaluate product performance and market demand, improving trend detection speed by **28%**. Translated complex market data into clear, business-ready insights, supporting faster decision-making by **18%**.  
+This project focuses on analyzing technology market datasets to identify **emerging trends, competitive positioning, and product performance**. AI-assisted analysis techniques were applied to evaluate market demand and growth patterns, resulting in a **28% improvement in trend detection efficiency**. Insights were translated into clear, business-ready reports, enabling **18% faster strategic decision-making**.
 
-**Tech Stack:** Python, Data Analysis Libraries, Visualization Tools
-</details>
+**Tech Stack:** Python, Data Analysis Libraries, Data Visualization Tools
 
-<details>
-<summary>🎓 Student Attendance Analysis</summary>
+---
 
+### 🎓 Student Attendance Analysis  
 **Project Overview:**  
-Analyzed student attendance records across courses and semesters to identify participation patterns. Identified low-attendance risk groups, supporting a **15% improvement** in early intervention tracking. Created visual reports that reduced manual attendance monitoring effort by **40%**.  
+This project examines student attendance data across multiple courses and semesters to identify **participation trends and early disengagement risks**. Attendance frequency and course-wise patterns were analyzed to detect low-attendance risk groups, leading to a **15% improvement in early intervention tracking**. Interactive dashboards and reports reduced **manual attendance monitoring effort by 40%**.
 
 **Tech Stack:** Python, Excel, Data Visualization Tools
-</details>
 
 ---
 
